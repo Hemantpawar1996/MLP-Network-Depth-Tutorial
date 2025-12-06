@@ -1,11 +1,11 @@
-# 🧠 MLP Depth Experiment – Wine Classification Tutorial
+# Understanding How Network Depth Affects Multilayer Perceptron Performance: A Practical Tutorial Using the Wine Classification Dataset
 
 This repository contains the complete code and tutorial for analysing how **network depth affects the performance of a Multilayer Perceptron (MLP)**.  
 The experiment uses the **Wine Classification Dataset** and compares four architectures with increasing hidden-layer depth.
 
 ---
 
-## 📌 Project Goal
+## Project Goal
 
 To investigate:
 
